@@ -86,13 +86,6 @@ A comprehensive EDA on the Google Play Store dataset from Kaggle. This project c
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-linkedin)
-
----
 
 ## 🙏 Acknowledgements
 
